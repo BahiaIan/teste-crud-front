@@ -1,0 +1,48 @@
+table {
+    width: 100%;
+}
+
+input {
+    border-radius: 8px;
+    font-size: 24px;
+    text-align: left;
+    padding: 8px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.input {
+    margin-top: 25px !important;
+    margin-left: 25px !important;
+    margin-right: 10px !important;
+}
+
+.myButton {
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    height: 48px;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+}
+
+.myButton1 {
+    border: 1px solid #ab182c;
+    background-color: #c7444f;
+    text-shadow: 0px 1px 0px #66272c;
+}
+
+.myButton2 {
+    background-color: #44c767;
+    border: 1px solid #18ab29;
+    text-shadow: 0px 1px 0px #2f6627;
+}
+
+.myButton3 {
+    background-color: #4644c7;
+    border: 1px solid #2218ab;
+    text-shadow: 0px 1px 0px #282766;
+}
